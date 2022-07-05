@@ -1,2 +1,2 @@
-# DIO-Desafio-JS-Instagram
-Desafio DIO página inicial do Instagram - JS/CSS
+# DIO-Desafio-Instagram
+Desafio DIO página inicial do Instagram - HTML/CSS
